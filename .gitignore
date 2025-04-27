@@ -1,0 +1,28 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets
+# data/raw/
+# data/processed/x_data_sparse.npz
+# data/processed/x_data.pkl
+# data/processed/y_data.pkl
+
+# Ignore models
+# models/*.pkl
+# models/*.h5
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
