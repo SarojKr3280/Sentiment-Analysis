@@ -32,10 +32,11 @@ joblib
 
 ## How to Run
 
-1. Run the Jupyter notebooks for EDA and preprocessing (`preprocessing.ipynb`).
-2. Train models using `Classical_Model.ipynb`.
-3. Evaluate models, compare results, and save metrics/plots.
-4. Execute `main.py` for an end-to-end pipeline.
+1. Run the Jupyter notebooks for EDA (`EDA.ipynb`)
+2. For preprocessing, run the file(`Preprocessing.ipynb`).
+3. Train models using `Classical_Model.ipynb`.
+4. Evaluate models, compare results, and save metrics/plots.
+5. Execute `main.py` for an end-to-end pipeline.
 
 ## License
 
